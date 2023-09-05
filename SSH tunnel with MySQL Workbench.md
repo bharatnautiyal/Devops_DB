@@ -1,4 +1,4 @@
-# SSH tunnel from MySQL Workbench to connect to a private Amazon MySQL DB EC2 instance that uses a public EC2 instance?
+# Create SSH tunnel from MySQL Workbench to connect to a private Amazon MySQL DB EC2 instance/RDS that uses/only allow a public EC2 instance
 
 
 ## Short description ##
