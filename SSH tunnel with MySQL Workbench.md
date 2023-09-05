@@ -1,11 +1,11 @@
-SSH tunnel from MySQL Workbench to connect to a private Amazon MySQL DB EC2 instance that uses a public EC2 instance?
+# SSH tunnel from MySQL Workbench to connect to a private Amazon MySQL DB EC2 instance that uses a public EC2 instance?
 
 
 ## Short description ##
 Before you connect over an SSH tunnel using MySQL Workbench, confirm that the security group inbound rules, network access control lists (network ACLs), and route tables are configured to allow a connection between your EC2 instance and your RDS DB instance. Also confirm that the EC2 instance can be connected to over the internet using its public IP address from your local machine. For more information, see Scenarios for accessing a DB Instance in a VPC.
 
 
-#Resolution
+# Resolution
 
 1. Open MySQL Workbench.
 2. Select MySQL New Connection and enter a connection name.  (ssh-tunel)
