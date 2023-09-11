@@ -1,3 +1,3 @@
-## Devops_DB
+# Devops_DB
 
-# This repo will include day to day task for devops engineers related to DataBases.
+## This repo will include day to day task for devops engineers related to DataBases.
