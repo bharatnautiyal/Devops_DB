@@ -4,4 +4,4 @@
 
 
 
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*7EM_33uoR9UdASR2.png" alt="image" width="500">
+<img src="https://www.dbmaestro.com/wp-content/uploads/2021/08/database-teams.png" alt="image" width="500">
